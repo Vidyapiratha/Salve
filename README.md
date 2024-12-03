@@ -134,6 +134,22 @@ The frontend is a **single-page application (SPA)** designed to deliver a respon
 2. **Clinic Selection**:  
    A dropdown selection is provided to choose clinics effortlessly, making navigation simple and intuitive.
 
+## Future Improvements
+
+The following improvements and features can be added to enhance the functionality and user experience of the Patients Dashboard:
+
+1. **Separate Pages for Clinics and Patients**  
+   Currently, the application displays clinics and patients in the same view. However, creating **separate pages** for clinics and patients could provide a more structured navigation experience. Upon selecting a clinic, users would be redirected to the **Patients Page**, where they can see and manage the associated patients more efficiently.
+
+2. **Dynamic Theme Switching**  
+   The addition of a **light and dark** theme would allow users to switch between different visual styles, improving accessibility and user comfort. The theme could be tied to the system-level preference, automatically adjusting when the system's theme changes. This would enhance the user experience by providing a consistent and personalized interface across different devices.
+
+3. **Enhanced Patient Card Styling**  
+   The design of the **patient cards** could be improved with more intricate styling, making them visually appealing and easier to interact with. Additional details like patient status, age, or other key attributes could be highlighted to enhance data visibility and user experience.
+
+4. **Display Patient Details**  
+   A future enhancement could include the ability to **select a patient** and display their detailed information, such as medical history, appointment schedule, and other personal details. This would provide a more comprehensive overview of each patient, making the dashboard a central hub for patient management.
+
 ---
 
 ## Summary
